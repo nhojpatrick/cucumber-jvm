@@ -233,7 +233,7 @@
         <module>junit-platform-engine</module>
         <module>kotlin-java8</module>
         <module>needle</module>
-        <module>openejb</module>
+        <!--<module>openejb</module>-->
         <module>picocontainer</module>
         <module>plugin</module>
         <module>spring</module>
